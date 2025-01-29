@@ -123,16 +123,16 @@ Below is an overview of the datasets used, as well as the cleaning and merging s
 
 Repository_Structure/
 ├── Original Data Files CSV/
-│   ├── Medicare_Claims_data_part_1.csv
-│   ├── Medicare_Claims_data_part_2.csv
-│   ├── Medicare_Claims_data_part_3.csv
-│   ├── Medicare_Claims_data_part_4.csv
-│   ├── Medicare_Claims_data_part_5.csv
-│   ├── HCP_demographics_data.csv
-│   ├── Patient_demographics_data.csv
-│   ├── Diagnosis_Code_Mapping.csv
-│   ├── Procedure_Code_Mapping.csv
-│   └── Zip_to_Territory_Mapping.csv
+├── Medicare_Claims_data_part_1.csv
+├── Medicare_Claims_data_part_2.csv
+├── Medicare_Claims_data_part_3.csv
+├── Medicare_Claims_data_part_4.csv
+├── Medicare_Claims_data_part_5.csv
+├── HCP_demographics_data.csv
+├── Patient_demographics_data.csv
+├── Diagnosis_Code_Mapping.csv
+├── Procedure_Code_Mapping.csv
+├── Zip_to_Territory_Mapping.csv
 ├── 810 Final Python File.ipynb
 ├── BIA 810-D Final Presentation Group 3.pptx
 └── README.md
